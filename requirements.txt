@@ -1,0 +1,13 @@
+gym==0.15.7
+gym_minigrid==1.0.2
+gym_super_mario_bros==7.3.2
+matplotlib==3.2.2
+nes_py==8.1.8
+numpy==1.19.5
+opencv_python==4.2.0.34
+Pillow==10.2.0
+scikit_learn==1.3.2
+seaborn==0.11.1
+tensorboardX==2.6.2.2
+torch==1.7.1
+tqdm==4.62.3
